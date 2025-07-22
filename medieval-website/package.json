@@ -1,0 +1,24 @@
+{
+  "name": "medieval-website",
+  "version": "1.0.0",
+  "description": "A medieval themed website for a reenactment group.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "build": "echo 'Building the project...'",
+    "test": "echo 'Running tests...'"
+  },
+  "keywords": [
+    "medieval",
+    "reenactment",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
